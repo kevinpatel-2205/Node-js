@@ -1,1 +1,6 @@
 1726253426144: GET :/signup New req received
+1726309506630: GET :/ New req received
+1726309518641: GET :/about New req received
+1726309532409: GET :/about?myname=kevin&userid=1 New req received
+1726309539007: GET :/kevin New req received
+1726309549564: GET :/kevin New req received
