@@ -4,3 +4,10 @@
 1726309532409: GET :/about?myname=kevin&userid=1 New req received
 1726309539007: GET :/kevin New req received
 1726309549564: GET :/kevin New req received
+1726310569933: GET :/ New req received
+1726310569979: GET :/favicon.ico New req received
+1726310605631: GET :/ New req received
+1726310673381: GET :/about?myname=kevin&userid=1 New req received
+1726310853434: GET :/signup New req received
+1726310864545: GET :/signup New req received
+1726310875729: GET :/kevin New req received
