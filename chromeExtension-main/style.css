@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px auto;
+    color: #444;
+  }
+  
+  #quotes {
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    background-color: #fff;
+    width: 500px;
+    font-size: 20px;
+    color: #007bff;
+  }
+  
+  @media (max-width: 600px) {
+    p {
+      font-size: 18px;
+    }
+    
+    #quotes {
+      font-size: 16px;
+    }
+  }
+  
