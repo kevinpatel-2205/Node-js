@@ -4,7 +4,7 @@
   "main": "Hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon All_Video/mongodb.js"
+    "start": "nodemon simple_API.js"
   },
   "author": "",
   "license": "ISC",
